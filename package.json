@@ -1,0 +1,22 @@
+{
+  "name": "sort-algo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ladrower/sort-algo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ladrower/sort-algo/issues"
+  },
+  "homepage": "https://github.com/ladrower/sort-algo#readme",
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
